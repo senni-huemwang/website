@@ -1,0 +1,23 @@
+site_name: Senni's site
+site_description: Everything about Senni.
+site_author: Senni Huemwang
+repo_url: https://github.com/senni-huemwang/website
+
+theme:
+  name: null
+  custom_dir: 'simple-blog/'
+  locale: en
+  theme_style: dark
+  components:
+    title: false
+    preview: false
+  site_name_style: underline
+  favicon: img/favicon.ico
+
+nav:
+  - Home: index.md 
+  - About Me: about.md 
+  - Media: media.md
+  - DNI/BYF: dni.md
+
+plugins: []

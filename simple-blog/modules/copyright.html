@@ -1,0 +1,24 @@
+<!-- block copyright -->
+{%- if config.copyright %}
+    <small class="d-block mb-3">{{ config.copyright }}</small>
+{%- endif %}
+{% if not config.extra.generator == false %}
+    <small class="d-block mb-3">
+        Made by 
+        <a href="https://github.com/senni-han" target="_blank" rel="noopener">
+            Han Senni
+        </a>
+         and was created using
+        <a href="https://www.mkdocs.org" target="_blank" rel="noopener">
+            MkDocs
+        </a>
+         with
+        <a href="https://fernandocelmer.github.io/mkdocs-simple-blog/" target="_blank" rel="noopener">
+            MkDocs Simple Blog
+        </a>
+        theme.<br/>
+        <br/>
+        Mafuyu Asahina, Tsukasa Tenma, and Hatsune Miku: Colorful Stage is a property of Sega Corporation and Colorful Palette, subsidiary of Craft Egg.
+    </small>
+{% endif %}
+<!-- endblock -->

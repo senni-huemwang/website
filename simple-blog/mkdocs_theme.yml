@@ -1,0 +1,7 @@
+language: en
+
+include_search_page: false
+search_index_only: false
+
+highlightjs: true
+hljs_languages: []
