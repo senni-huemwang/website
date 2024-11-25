@@ -9,7 +9,7 @@ This list only applies to social media platforms, such as X (Formerly Twitter), 
 - If I ever said something problematic, inappropriate, or weird in general, feel free to DM about my actions
 - I often use vulgar words with people I consider that I am close with, unless in professional conversation.
 - I am not a minor, so if you are not comfortable with interacting or following someone who is an adult, please do not interact or follow.
-- I prefer not to interact with people who were born in 2009 or later, unless we are currently mutuals.
+- I prefer not to interact with people who were born in 2009 or later online, unless we are currently mutuals.
 
 ### Instagram specific lists
 

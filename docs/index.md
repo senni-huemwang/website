@@ -6,7 +6,8 @@
 
 <div class="text-center">
 <a href="https://shutterstock.com/g/senni_han">Buy my photograph</a>&emsp;&emsp;
-<a href="https://github.com/senni-huemwang">Visit my GitHub</a>
+<a href="https://github.com/senni-huemwang">Visit my GitHub</a>&emsp;&emsp;
+<a href="https://senni-huemwang.itch.io">Play my games</a>
 </div>
 
 I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
@@ -18,13 +19,15 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 - My pronouns are he/him
 - I'm from Thailand
 - I'm a cisgender bisexual guy
+- I am great with Git, Linux, HTML/CSS/JS, Python, Arduino, Markdown, and Bash, and I am currently learning C, Rust, and Swift.
+- I enjoy photography, motorcycling, and listening to Hi-Fi music.
 
 ## Where to find me 
 
 - [Email me](mailto:shuemwang.han@gmail.com)
 - [Shutterstock](https://shutterstock.com/g/senni_han)
 - [Senni's Ride & Audio (YouTube Channel)](https://youtube.com/@senni_ride_audio)
-- [Github Page](https://github.com/senni-han)
+- [Github Page](https://github.com/senni-huemwang)
 - [Instagram (Personal)](https://instagram.com/senni_kim.390)
 - [Instagram (YouTube Channel)](https://instagram.com/senni_ride_audio)
 - [Instagram (Photography)](https://instagram.com/senni_photos)
