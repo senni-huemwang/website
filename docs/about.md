@@ -10,7 +10,7 @@
 
 I'm Senni! The phrase that could describe me the best is "Linux-obsessed audiophile photographer motorcyclist". I started my programming, motorcycling, and photography career in 2021 (when I was 15), along with my Linux journey. I later started my audiophile journey in 2022. 
 
-I am mainly in Sky: Children of the Light and Project Sekai fandom, though I also play other video games such as Half-Life series, Left 4 Dead 2, Project Diva series, Gran Turismo Series, GRID Legends, GRID 2, Race Driver: GRID, and Ride: Game.
+I am mainly in Honkai: Star Rail and Project Sekai fandom, though I also play other video games such as Sky: COTL, Tetris, Half-Life series, Left 4 Dead 2, Project Diva series, Gran Turismo Series, GRID Legends, GRID 2, Race Driver: GRID, and Ride: Game.
 
 I also take photographs (mainly landscape and street photography), with my following camera gear :
 
@@ -25,6 +25,8 @@ and I have been posting and selling my photos on my [Shutterstock account](https
 ## What I have done and contributed.
 
 I have experiences in video games and software development, coding, Linux, and art. In my Linux journey, I have contributed to translation for Ubuntu, and I used to contributed for translation for Vanilla OS. I am fairly active in tech communities, giving supports and advices for people in the communities.
+
+I have graduated Year 3 of Territorial Defense Student program, earning an acting sergeant rank, and have passed the program's training in riflemanship.
 
 I also have a [Youtube Channel](https://youtube.com/@senni_ride_audio) for my motorcycling hobby, and an [Instagram Account](https://instagram.com/senni_photos) for my photography hobby, and occasional hired photoshoots.
 

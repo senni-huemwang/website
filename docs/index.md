@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Hi there, it's Senni!</h1>
 <p align="center">
-  <img src="img/stamp0204.png" alt="Mafuyu" width="30%"/>
+  <img src="img/Ruan_Mei.png" alt="Ruan Mei" width="30%"/>
 </p>
 ---
 
@@ -17,10 +17,15 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 
 - My name is Kim, or Senni.
 - My pronouns are he/him
-- I'm from Thailand
+- I'm from Thailand, with a military rank being an acting sergeant.
 - I'm a cisgender bisexual guy
 - I am great with Git, Linux, HTML/CSS/JS, Python, Arduino, Markdown, and Bash, and I am currently learning C, Rust, and Swift.
-- I enjoy photography, motorcycling, and listening to Hi-Fi music.
+- I enjoy photography, motorcycling, shooting firearms, racing, and listening to Hi-Fi music.
+
+<p align="center">
+  <img src="img/ruan-mei.gif" alt="Ruan Mei GIF" width="50%"/>
+</p>
+---
 
 ## Where to find me 
 
@@ -28,6 +33,7 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 - [Shutterstock](https://shutterstock.com/g/senni_han)
 - [Senni's Ride & Audio (YouTube Channel)](https://youtube.com/@senni_ride_audio)
 - [Github Page](https://github.com/senni-huemwang)
+- [X (Formerly Twitter)](https://x.com/senni_eos)
 - [Instagram (Personal)](https://instagram.com/senni_kim.390)
 - [Instagram (YouTube Channel)](https://instagram.com/senni_ride_audio)
 - [Instagram (Photography)](https://instagram.com/senni_photos)
@@ -36,7 +42,12 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 
 - PRSK/PJSK (Project Sekai) (Global)
 - Sky: Children Of the Light
+- Tetris
+- Left 4 Dead 2
+- Honkai: Star Rail
+- GRID Series
 - Motorcycles (espescially KTM)
+- Motorsports
 - Linux, and FLOSS (Free/Libre and Open Source Software)
 - Motovlogging
 - Photographing

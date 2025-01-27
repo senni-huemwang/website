@@ -24,9 +24,6 @@ Some media of my interests, scroll for more.
 <p align="center">
   <img src="laptop/2.webp" alt="Laptop2" width="75%"/>
 </p>
-<p align="center">
-  <img src="laptop/3.webp" alt="Laptop3" width="75%"/>
-</p>
 
 <h2 style="text-align: center;">My Music Setup</h2>
 
@@ -47,4 +44,10 @@ Some media of my interests, scroll for more.
 </p>
 <p align="center">
   <img src="videogames/3.webp" alt="Sky" width="75%"/>
+</p>
+<p align="center">
+  <img src="videogames/2.webp" alt="Astral Express" width="75%"/>
+</p>
+<p align="center">
+  <img src="videogames/4.webp" alt="March" width="75%"/>
 </p
