@@ -10,7 +10,7 @@
 
 I'm Senni! The phrase that could describe me the best is "Linux-obsessed audiophile photographer motorcyclist". I started my programming, motorcycling, and photography career in 2021 (when I was 15), along with my Linux journey. I later started my audiophile journey in 2022. 
 
-I am mainly in Honkai: Star Rail and Project Sekai fandom, though I also play other video games such as Sky: COTL, Tetris, Half-Life series, Left 4 Dead 2, Project Diva series, Gran Turismo Series, GRID Legends, GRID 2, Race Driver: GRID, and Ride: Game.
+I am mainly in Honkai: Star Rail and Project Sekai fandom, though I also play other video games such as Sky: COTL, Tetris, Half-Life series, Left 4 Dead 2, Project Diva series, Gran Turismo Series, GRID Series, and RIDE 2
 
 I also take photographs (mainly landscape and street photography), with my following camera gear :
 
