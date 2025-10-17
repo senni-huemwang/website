@@ -12,14 +12,14 @@
 
 I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 
-
 ## Some brief information about who I am
 
 - My name is Kim, or Senni.
 - My pronouns are he/him
 - I'm from Thailand, with a military rank being an acting sergeant.
 - I'm a cisgender bisexual guy
-- I am great with Git, Linux, HTML/CSS/JS, Python, Arduino, Markdown, and Bash, and I am currently learning C, Rust, and Swift.
+- I am a Computer Engineering Student of KMUTT, and a content creator on TikTok and YouTube.
+- I am great with Git, Linux, HTML/CSS/JS, Python, Arduino, Markdown, and Bash, and I am currently learning C.
 - I enjoy photography, motorcycling, shooting firearms, racing, and listening to Hi-Fi music.
 
 <p align="center">
@@ -27,20 +27,22 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 </p>
 ---
 
-## Where to find me 
+## Where to find me
 
 - [Email me](mailto:shuemwang.han@gmail.com)
 - [Shutterstock](https://shutterstock.com/g/senni_han)
-- [Senni's Ride & Audio (YouTube Channel)](https://youtube.com/@senni_ride_audio)
+- [TikTok channel](https://tiktok.com/@senni_60d)
+- [Senni's Ride & Tech (YouTube Channel)](https://youtube.com/@senni_ride_tech)
 - [Github Page](https://github.com/senni-huemwang)
 - [X (Formerly Twitter)](https://x.com/senni_eos)
 - [Instagram (Personal)](https://instagram.com/senni_kim.390)
-- [Instagram (YouTube Channel)](https://instagram.com/senni_ride_audio)
+- [Instagram (Tech and Motorcycle content)](https://instagram.com/senni_ride_tech)
 - [Instagram (Photography)](https://instagram.com/senni_photos)
 
 ## Interests
 
 - PRSK/PJSK (Project Sekai) (Global)
+- Uma Musume Series
 - Sky: Children Of the Light
 - Tetris
 - Left 4 Dead 2
@@ -57,4 +59,3 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 <p align="center">
   <img src="img/wxs.gif" alt="WxSbanner" width="50%"/>
 </p>
-
