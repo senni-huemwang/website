@@ -1,8 +1,8 @@
 # Source code for senni-huemwang.github.io
 
-## ARCHIVE, MOVED TO GITLAB https://gitlab.com/senni-huemwang/senni-huemwang-gitlab.io
+## ARCHIVE, MOVED TO GITLAB https://gitlab.com/senni-huemwang/senni-huemwang.gitlab.io
 
-This repository is used to host source code for https://senni-huemwang.github.io
+This repository is used to host source code for https://senni-huemwang.github.io (now moved to GitLab Pages)
 
 ![Screenshot](screenshot.png)
 
